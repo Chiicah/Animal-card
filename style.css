@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(228, 196, 201)
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+}
+
+img {
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+    
+}
+
+article {
+    display: flex;
+    font-size: 20px;
+    font-weight: 10px;
+    line-height: 20px;
+}
+
+button{
+    padding: 10px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 50px;
+    background: black;
+    
+}
